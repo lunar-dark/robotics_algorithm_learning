@@ -122,7 +122,7 @@ void test_matrix()
 
 int main()
 {
-    // test_vector();
+    test_vector();
     test_matrix();
     return 0;
 }
